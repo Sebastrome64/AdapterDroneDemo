@@ -1,7 +1,5 @@
 package adapterdrone;
-
 public class AdaptadorDroneDemo {
-
     public static void main(String[] args) {
         Pato pato = new PatoReal();
 
