@@ -1,5 +1,4 @@
 package adapterdrone;
-
 public class AdaptadorDrone implements Pato {
 
     private Drone drone;
